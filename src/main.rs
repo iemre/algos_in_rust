@@ -1,6 +1,7 @@
 use std::time::Instant;
 mod sorting;
 mod two_sum;
+mod linked_list;
 
 fn main() {
     let veccy1 = vec![23,11,55,2,32,1,98923,23,11,55];
